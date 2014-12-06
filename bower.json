@@ -1,0 +1,32 @@
+{
+  "name": "blank-css-pagination",
+  "version": "0.1.0",
+  "description": "Pagination component for blank-css",
+  "main": "pagination.css",
+  "homepage": "https://github.com/ahmedelgabri/blank-component-pagination",
+  "authors": [
+    "Ahmed El Gabri <ahmed@gabri.me>"
+  ],
+  "keywords": [
+    "scss",
+    "sass",
+    "css",
+    "bem",
+    "oocss",
+    "blank",
+    "blank-css",
+    "pagination"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "blank-css-config": "~0.1.0",
+    "blank-css-rem": "~0.1.0"
+  }
+}
